@@ -4,7 +4,9 @@ A small browser game: guide a voxel dog through the gaps between columns. Built 
 
 ## Play
 
-Serve the folder and open it in a browser:
+**Play online:** https://cpaulbarrett.github.io/flappy-dog/
+
+To run it locally, serve the folder and open it in a browser:
 
 ```
 python3 -m http.server 8000

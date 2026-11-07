@@ -31,4 +31,4 @@ All code is one inline `<script type="module">` in `index.html`. The key design 
 
 ## Repo
 
-Pushed to the private GitHub repo `CPaulBarrett/flappy-dog` (branch `main`).
+Public GitHub repo `CPaulBarrett/flappy-dog` (branch `main`), hosted on GitHub Pages from the `main` branch root at https://cpaulbarrett.github.io/flappy-dog/. Pushing to `main` redeploys the site.
